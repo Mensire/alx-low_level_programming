@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _strpbrk - function locates the first occurrence in a string pointed to by string 11 of any charcter from the string ponted to by string 2.
+ * _strpbrk - function locates the first occurrence in a string pointed to by s   tring 11 of any charcter from the string ponted to by string 2.
  *
  * @s: The string pointer to be searched.
  * @accept: The string pointer to be searched for.
