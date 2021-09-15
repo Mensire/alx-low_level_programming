@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * set_string - sets the value of a pointer to a char
- * @s: source adress.
- * @to: target adress.
+ * set_string - Sets the value of a pointer to a char.
+ * @s: Pointer to set value of.
+ * @to: Char who's value is to be set to..
  */
 void set_string(char **s, char *to)
 {
