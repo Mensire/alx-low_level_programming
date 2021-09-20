@@ -1,16 +1,17 @@
 #include <stdio.h>
 
 /**
- * main -Print program name.
+ * main - Prints name of program.
  *
- *@argc - number of aguments passe on the CLI.
- *@argv - array of pointers to string arguments passed.
+ * @argc: Number of arguments passed on the CLI.
+ * @argv: Array of pointers to string arguments passed.
  *
- *Return - always 0.
+ * Return: Always 0.
  */
 int main(int argc, char *argv[])
 {
-  if (argc > 0)
-    printf("%s\n", argv[0]);
-  return (0);
+	if (argc > 0)
+		printf("%s\n", argv[0]);
+
+	return (0);
 }
