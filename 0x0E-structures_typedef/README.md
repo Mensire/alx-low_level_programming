@@ -1,0 +1,1 @@
+typedef to introduce new functions
