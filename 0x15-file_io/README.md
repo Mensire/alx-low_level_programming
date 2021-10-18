@@ -1,0 +1,1 @@
+This project involves file discriptors and system calls like write, read, open and close. 
